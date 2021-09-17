@@ -5,6 +5,7 @@
 
     <StackLayout>
         <Label x:Name="Resultado" Text="Sin Cargar Datos"/>
+        <Label Text="Segundo Label"></Label>
 
         <Button Clicked="Button_Clicked" Text="Cargar Datos" ></Button>
 
